@@ -86,15 +86,3 @@ What you should learn from this project:
 ### [12. Dealer](./1000-sort_deck.c)
 * Write a function that sorts a deck of cards.
 
----
-
-## Author
-* **Juan Pablo Yepes Tamayo**
- - [GitHub](https://github.com/PabloYepes27)
- - [Linkedin](https://www.linkedin.com/in/pablo-yepes-120495)
- - [Twitter](https://twitter.com/pabloyepes27)
-
- * **Angello Villegas**
- - [GitHub](https://github.com/)
- - [Linkedin](https://www.linkedin.com/)
- - [Twitter](https://twitter.com/)
